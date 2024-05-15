@@ -3,12 +3,3 @@
 
 ## Visualziação da Lading Page
 [<img src="./src/img/cafe/project.gif">]
-
-## Tecnologias usadas
-### - HTML
-### - CSS
-
-## Contato e links
-### Site: https://filardis-17.github.io/Code_Cafe/
-### Telefone: (21) 995291891
-### Email: caiosantosshake@hotmail.com
